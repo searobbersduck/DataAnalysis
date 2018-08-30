@@ -1,0 +1,6 @@
+[submodule "TGS_Salt_Identification_Challenge/lib"]
+	path = TGS_Salt_Identification_Challenge/lib
+	url = https://github.com/searobbersduck/RetinalImagesVesselExtraction
+[submodule "TGS_Salt_Identification_Challenge/vlib"]
+	path = TGS_Salt_Identification_Challenge/vlib
+	url = https://github.com/searobbersduck/RetinalImagesVesselExtraction
