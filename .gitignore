@@ -9,6 +9,7 @@ __pycache__/
 olympics_try/data
 TGS_Salt_Identification_Challenge/data
 HomeCredictDefaultRisk/data
+!md_set/img
 
 # C extensions
 *.so
