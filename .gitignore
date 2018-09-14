@@ -32,6 +32,15 @@ wheels/
 .installed.cfg
 *.egg
 MANIFEST
+.DS_Store
+
+GossipAnalysis/dataset
+GossipAnalysis/.ipynb_checkpoints
+
+ai_challenger/qa/dataset
+
+*.model
+*.vocab
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
